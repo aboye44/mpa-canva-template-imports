@@ -52,7 +52,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20260518182144-04'00') /Creator (anonymous) /Keywords () /ModDate (D:20260518182144-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (anonymous) /CreationDate (D:20260518182600-04'00') /Creator (anonymous) /Keywords () /ModDate (D:20260518182600-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (unspecified) /Title (MPA Structured Template - 6.25x9 EDDM) /Trapped /False
 >>
 endobj
@@ -63,7 +63,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 1885
+/Length 1913
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -90,45 +90,45 @@ BT 1 0 0 1 581.645 49.6 Tm (optional) Tj T* ET
 .858824 .917647 .996078 rg
 .376471 .647059 .980392 RG
 1 w
-n 25.2 189 597.6 189 re B*
+n 25.2 25.2 272.16 352.08 re B*
 .117647 .25098 .686275 rg
-BT /F2 12 Tf 14.4 TL ET
-BT 1 0 0 1 285.33 289.5 Tm (HERO IMAGE) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 298.88 275.5 Tm (replace image) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 125.8325 207.24 Tm (HERO IMAGE) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 139.3 193.24 Tm (replace image) Tj T* ET
 .066667 .094118 .152941 rg
-BT /F2 30 Tf 36 TL ET
-BT 1 0 0 1 25.2 171 Tm (HEADLINE) Tj T* ET
+BT /F2 34 Tf 40.8 TL ET
+BT 1 0 0 1 322.56 411.84 Tm (HEADLINE) Tj T* ET
 .066667 .094118 .152941 rg
-BT /F1 15 Tf 18 TL ET
-BT 1 0 0 1 25.2 131.4 Tm (Subhead / value proposition) Tj T* ET
+BT /F1 16 Tf 19.2 TL ET
+BT 1 0 0 1 322.56 367.2 Tm (Subhead / value proposition) Tj T* ET
 .92549 .988235 .796078 rg
 .517647 .8 .086275 RG
 1 w
-n 25.2 149.04 291.6 41.76 re B*
+n 322.56 297.36 162 37.44 re B*
 .211765 .32549 .078431 rg
-BT /F2 12 Tf 14.4 TL ET
-BT 1 0 0 1 150.666 175.92 Tm (OFFER) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 145.22 161.92 Tm (primary promo) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 384.9205 322.08 Tm (OFFER) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 381.0025 308.08 Tm (primary promo) Tj T* ET
 .066667 .094118 .152941 rg
-BT /F1 12 Tf 14.4 TL ET
-BT 1 0 0 1 25.2 136.8 Tm (BODY COPY) Tj T* ET
-BT 1 0 0 1 25.2 121.8 Tm (Support the offer with 1-2 clear points.) Tj T* ET
+BT /F1 13 Tf 15.6 TL ET
+BT 1 0 0 1 322.56 279.36 Tm (BODY COPY) Tj T* ET
+BT 1 0 0 1 322.56 263.11 Tm (Support the offer with 1-2 clear points.) Tj T* ET
 .066667 .094118 .152941 rg
 .066667 .094118 .152941 RG
 1 w
-n 25.2 41.04 151.2 36 re B*
+n 322.56 39.6 144 32.4 re B*
 1 1 1 rg
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 89.4975 65.04 Tm (CTA) Tj T* ET
-BT /F1 7 Tf 8.4 TL ET
-BT 1 0 0 1 81.347 51.04 Tm (call to action) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 384.285 61.8 Tm (CTA) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+BT 1 0 0 1 377.886 47.8 Tm (call to action) Tj T* ET
 .278431 .333333 .411765 rg
 BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 194.4 68.4 Tm (PHONE / URL) Tj T* ET
+BT 1 0 0 1 473.76 64.08 Tm (PHONE / URL) Tj T* ET
 .392157 .454902 .545098 rg
-BT /F1 7 Tf 8.4 TL ET
+BT /F1 8 Tf 9.6 TL ET
 BT 1 0 0 1 25.2 30.96 Tm (DISCLAIMER / FINE PRINT) Tj T* ET
  
 endstream
@@ -248,12 +248,12 @@ xref
 0000000971 00000 n 
 0000001261 00000 n 
 0000001332 00000 n 
-0000003269 00000 n 
-0000004853 00000 n 
+0000003297 00000 n 
+0000004881 00000 n 
 trailer
 <<
 /ID 
-[<d8730f30e3a7695e1e54459ea7d8f582><d8730f30e3a7695e1e54459ea7d8f582>]
+[<5b08cf2b308cc62538d70412ee98b2ef><5b08cf2b308cc62538d70412ee98b2ef>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 8 0 R
@@ -261,5 +261,5 @@ trailer
 /Size 13
 >>
 startxref
-5996
+6024
 %%EOF
