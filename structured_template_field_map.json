@@ -1,0 +1,352 @@
+[
+  {
+    "slug": "4x6-addressed",
+    "title": "MPA Structured Template - 4x6 Addressed",
+    "source_handoff_url": "https://www.canva.com/d/hOI1z2ZUjzyuNMl",
+    "canvas_px": {
+      "width": 576,
+      "height": 384
+    },
+    "canvas_inches": {
+      "width": 6.0,
+      "height": 4.0
+    },
+    "mail_type": "addressed",
+    "pages": {
+      "front": {
+        "fields": [
+          "LOGO",
+          "HERO IMAGE",
+          "HEADLINE",
+          "Subhead / value proposition",
+          "OFFER",
+          "BODY COPY",
+          "CTA",
+          "PHONE / URL",
+          "QR CODE",
+          "DISCLAIMER / FINE PRINT"
+        ]
+      },
+      "mailing": {
+        "fields": [
+          "RETURN / CONTACT",
+          "MAILING SIDE HEADLINE",
+          "Mail-side supporting copy",
+          "MAIL CTA",
+          "LOGO",
+          "QR CODE"
+        ],
+        "postal_reserved": [
+          "ADDRESS / BARCODE AREA",
+          "INDICIA AREA"
+        ]
+      },
+      "guide": {
+        "fields": [
+          "MPA STRUCTURED TEMPLATE GUIDE"
+        ]
+      }
+    },
+    "pdf_path": "output\\structured_canva_templates\\4x6-addressed.pdf"
+  },
+  {
+    "slug": "6x9-addressed",
+    "title": "MPA Structured Template - 6x9 Addressed",
+    "source_handoff_url": "https://www.canva.com/d/LHq5zxGAidz-AtW",
+    "canvas_px": {
+      "width": 864,
+      "height": 576
+    },
+    "canvas_inches": {
+      "width": 9.0,
+      "height": 6.0
+    },
+    "mail_type": "addressed",
+    "pages": {
+      "front": {
+        "fields": [
+          "LOGO",
+          "HERO IMAGE",
+          "HEADLINE",
+          "Subhead / value proposition",
+          "OFFER",
+          "BODY COPY",
+          "CTA",
+          "PHONE / URL",
+          "QR CODE",
+          "DISCLAIMER / FINE PRINT"
+        ]
+      },
+      "mailing": {
+        "fields": [
+          "RETURN / CONTACT",
+          "MAILING SIDE HEADLINE",
+          "Mail-side supporting copy",
+          "MAIL CTA",
+          "LOGO",
+          "QR CODE"
+        ],
+        "postal_reserved": [
+          "ADDRESS / BARCODE AREA",
+          "INDICIA AREA"
+        ]
+      },
+      "guide": {
+        "fields": [
+          "MPA STRUCTURED TEMPLATE GUIDE"
+        ]
+      }
+    },
+    "pdf_path": "output\\structured_canva_templates\\6x9-addressed.pdf"
+  },
+  {
+    "slug": "6x11-addressed",
+    "title": "MPA Structured Template - 6x11 Addressed",
+    "source_handoff_url": "https://www.canva.com/d/2sKePZrDKmrX7Dw",
+    "canvas_px": {
+      "width": 1056,
+      "height": 576
+    },
+    "canvas_inches": {
+      "width": 11.0,
+      "height": 6.0
+    },
+    "mail_type": "addressed",
+    "pages": {
+      "front": {
+        "fields": [
+          "LOGO",
+          "HERO IMAGE",
+          "HEADLINE",
+          "Subhead / value proposition",
+          "OFFER",
+          "BODY COPY",
+          "CTA",
+          "PHONE / URL",
+          "QR CODE",
+          "DISCLAIMER / FINE PRINT"
+        ]
+      },
+      "mailing": {
+        "fields": [
+          "RETURN / CONTACT",
+          "MAILING SIDE HEADLINE",
+          "Mail-side supporting copy",
+          "MAIL CTA",
+          "LOGO",
+          "QR CODE"
+        ],
+        "postal_reserved": [
+          "ADDRESS / BARCODE AREA",
+          "INDICIA AREA"
+        ]
+      },
+      "guide": {
+        "fields": [
+          "MPA STRUCTURED TEMPLATE GUIDE"
+        ]
+      }
+    },
+    "pdf_path": "output\\structured_canva_templates\\6x11-addressed.pdf"
+  },
+  {
+    "slug": "625x9-eddm",
+    "title": "MPA Structured Template - 6.25x9 EDDM",
+    "source_handoff_url": "https://www.canva.com/d/g12NFc9AThobSBV",
+    "canvas_px": {
+      "width": 864,
+      "height": 600
+    },
+    "canvas_inches": {
+      "width": 9.0,
+      "height": 6.25
+    },
+    "mail_type": "eddm",
+    "pages": {
+      "front": {
+        "fields": [
+          "LOGO",
+          "HERO IMAGE",
+          "HEADLINE",
+          "Subhead / value proposition",
+          "OFFER",
+          "BODY COPY",
+          "CTA",
+          "PHONE / URL",
+          "QR CODE",
+          "DISCLAIMER / FINE PRINT"
+        ]
+      },
+      "mailing": {
+        "fields": [
+          "RETURN / CONTACT",
+          "MAILING SIDE HEADLINE",
+          "Mail-side supporting copy",
+          "MAIL CTA",
+          "LOGO",
+          "QR CODE"
+        ],
+        "postal_reserved": [
+          "POSTAL AREA",
+          "INDICIA AREA"
+        ]
+      },
+      "guide": {
+        "fields": [
+          "MPA STRUCTURED TEMPLATE GUIDE"
+        ]
+      }
+    },
+    "pdf_path": "output\\structured_canva_templates\\625x9-eddm.pdf"
+  },
+  {
+    "slug": "625x11-eddm",
+    "title": "MPA Structured Template - 6.25x11 EDDM",
+    "source_handoff_url": "https://www.canva.com/d/J0ydOlSrIoOg2VA",
+    "canvas_px": {
+      "width": 1056,
+      "height": 600
+    },
+    "canvas_inches": {
+      "width": 11.0,
+      "height": 6.25
+    },
+    "mail_type": "eddm",
+    "pages": {
+      "front": {
+        "fields": [
+          "LOGO",
+          "HERO IMAGE",
+          "HEADLINE",
+          "Subhead / value proposition",
+          "OFFER",
+          "BODY COPY",
+          "CTA",
+          "PHONE / URL",
+          "QR CODE",
+          "DISCLAIMER / FINE PRINT"
+        ]
+      },
+      "mailing": {
+        "fields": [
+          "RETURN / CONTACT",
+          "MAILING SIDE HEADLINE",
+          "Mail-side supporting copy",
+          "MAIL CTA",
+          "LOGO",
+          "QR CODE"
+        ],
+        "postal_reserved": [
+          "POSTAL AREA",
+          "INDICIA AREA"
+        ]
+      },
+      "guide": {
+        "fields": [
+          "MPA STRUCTURED TEMPLATE GUIDE"
+        ]
+      }
+    },
+    "pdf_path": "output\\structured_canva_templates\\625x11-eddm.pdf"
+  },
+  {
+    "slug": "85x11-eddm-landscape",
+    "title": "MPA Structured Template - 8.5x11 EDDM Landscape",
+    "source_handoff_url": "https://www.canva.com/d/vUtcrtqD_rojZN6",
+    "canvas_px": {
+      "width": 1056,
+      "height": 816
+    },
+    "canvas_inches": {
+      "width": 11.0,
+      "height": 8.5
+    },
+    "mail_type": "eddm",
+    "pages": {
+      "front": {
+        "fields": [
+          "LOGO",
+          "HERO IMAGE",
+          "HEADLINE",
+          "Subhead / value proposition",
+          "OFFER",
+          "BODY COPY",
+          "CTA",
+          "PHONE / URL",
+          "QR CODE",
+          "DISCLAIMER / FINE PRINT"
+        ]
+      },
+      "mailing": {
+        "fields": [
+          "RETURN / CONTACT",
+          "MAILING SIDE HEADLINE",
+          "Mail-side supporting copy",
+          "MAIL CTA",
+          "LOGO",
+          "QR CODE"
+        ],
+        "postal_reserved": [
+          "POSTAL AREA",
+          "INDICIA AREA"
+        ]
+      },
+      "guide": {
+        "fields": [
+          "MPA STRUCTURED TEMPLATE GUIDE"
+        ]
+      }
+    },
+    "pdf_path": "output\\structured_canva_templates\\85x11-eddm-landscape.pdf"
+  },
+  {
+    "slug": "85x11-eddm-portrait",
+    "title": "MPA Structured Template - 8.5x11 EDDM Portrait",
+    "source_handoff_url": "https://www.canva.com/d/AbUGBe__SWMU1Ot",
+    "canvas_px": {
+      "width": 816,
+      "height": 1056
+    },
+    "canvas_inches": {
+      "width": 8.5,
+      "height": 11.0
+    },
+    "mail_type": "eddm",
+    "pages": {
+      "front": {
+        "fields": [
+          "LOGO",
+          "HERO IMAGE",
+          "HEADLINE",
+          "Subhead / value proposition",
+          "OFFER",
+          "BODY COPY",
+          "CTA",
+          "PHONE / URL",
+          "QR CODE",
+          "DISCLAIMER / FINE PRINT"
+        ]
+      },
+      "mailing": {
+        "fields": [
+          "RETURN / CONTACT",
+          "MAILING SIDE HEADLINE",
+          "Mail-side supporting copy",
+          "MAIL CTA",
+          "LOGO",
+          "QR CODE"
+        ],
+        "postal_reserved": [
+          "POSTAL AREA",
+          "INDICIA AREA"
+        ]
+      },
+      "guide": {
+        "fields": [
+          "MPA STRUCTURED TEMPLATE GUIDE"
+        ]
+      }
+    },
+    "pdf_path": "output\\structured_canva_templates\\85x11-eddm-portrait.pdf"
+  }
+]
